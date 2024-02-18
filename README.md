@@ -1,4 +1,4 @@
-### Project-1_Python-for-DS
+# Project-1_Python-for-DS
 
 ## Learning objective:
 1. Working with data using python libraries.
